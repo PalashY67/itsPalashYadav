@@ -13,6 +13,10 @@ I'm a passionate **[Software developer]** with experience in **[ruby, ruby on ra
 
 ## My Skills 🧠
 
+- Problem solving
+- Finding effective solutions for the product
+- Team collaboration
+
 ## contributions 💻
 
 Created a ruby gem called active_buddy which is still under development phase ( https://rubygems.org/profiles/palashyadav)
@@ -22,7 +26,6 @@ Created a ruby gem called active_buddy which is still under development phase ( 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
