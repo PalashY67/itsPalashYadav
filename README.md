@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Software developer]** with experience in **[ruby, ruby on rails, cucumber, capybara, javascript and react etc.]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software developer** with experience in **ruby, ruby on rails, cucumber, capybara, javascript and react etc.**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **New software technologies in the market**
 - 🔭 Working on: **current projects or side-projects**
